@@ -37,7 +37,7 @@ const MinePage = () => {
 
         <div className="flex items-center gap-4 justify-center pt-[1.5rem]">
           <CointIconBig />
-          <h1 className="text-[#fff] font-bold text-[3.5rem]">507, 981</h1>
+          <h1 className="text-[#fff] font-bold text-[3rem]">507, 981</h1>
         </div>
         <div className="flex justify-end text-[#fff] pt-[1rem]">
           <p>2:34:50 </p>
