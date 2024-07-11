@@ -4,7 +4,7 @@ const TapSection = () => {
   return (
     <span>
       <svg
-        width="224"
+        width="250"
         height="324"
         viewBox="0 0 324 324"
         fill="none"
