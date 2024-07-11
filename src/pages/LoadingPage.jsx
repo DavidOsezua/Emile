@@ -3,7 +3,7 @@ import { LoadingImage } from "../assets";
 
 const LoadingPage = () => {
   return (
-    <section className="bg-[#2C2F35]  pt-[8rem] pb-[10rem]">
+    <section className="bg-[#2C2F35]  pt-[8rem] pb-[3rem]">
       <img src={LoadingImage} />
 
       <div className="flex justify-center">

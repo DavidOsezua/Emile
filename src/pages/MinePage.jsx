@@ -9,7 +9,7 @@ import {
 
 const MinePage = () => {
   return (
-    <section className="bg-[#2C2F35] h-[100vh] pt-[8rem] pb-[10rem]">
+    <section className="bg-[#2C2F35]  pt-[8rem] pb-[3rem]">
       <div className="px-[1rem] max-w-[1300px] mx-[auto]">
         <div className="text-[#fff] flex gap-2 justify-between pb-4">
           <div className="bg-[#30343A] rounded-lg flex flex-col items-center w-full py-[0.5rem] px-[1rem]">
