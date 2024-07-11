@@ -11,7 +11,7 @@ import {
 
 const HomePage = () => {
   return (
-    <section className="bg-[#2C2F35]  pt-[3rem] pb-[10rem]">
+    <section className="bg-[#2C2F35]  pt-[1rem] pb-[3rem]">
       <div className="px-[1rem] max-w-[1300px] mx-[auto]">
         <div className="flex items-center justify-between text-[#fff] pb-[1rem]">
           <div className="flex items-center gap-1">
