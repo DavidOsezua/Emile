@@ -11,7 +11,7 @@ import {
 
 const HomePage = () => {
   return (
-    <section className="bg-[#2C2F35]  pt-[1rem] pb-[3rem]">
+    <section className="bg-[#2C2F35]  pt-[1rem] pb-[7rem]">
       <div className="px-[1rem] max-w-[1300px] mx-[auto]">
         <div className="flex items-center justify-between text-[#fff] pb-[1rem]">
           <div className="flex items-center gap-1">
@@ -49,7 +49,7 @@ const HomePage = () => {
           </div>
         </div>
 
-        <div className="text-[#fff] flex justify-between items-center pb-[1.5rem]">
+        <div className="text-[#fff] flex justify-between items-center pb-[1rem]">
           <p>Epic</p>
 
           <div className="flex items-center gap-1">
@@ -61,16 +61,16 @@ const HomePage = () => {
 
         <ProgressBar />
 
-        <div className="flex items-center gap-4 justify-center pt-[3rem]">
+        <div className="flex items-center gap-4 justify-center pt-[1.5rem]">
           <CointIconBig />
-          <h1 className="text-[#fff] font-bold text-[3.5rem]">507, 981</h1>
+          <h1 className="text-[#fff] font-bold text-[3rem]">507, 981</h1>
         </div>
 
         <div className="flex justify-center pt-[1.5rem]">
           <TapSection />
         </div>
 
-        <div className="text-[#fff] flex justify-between items-center pt-[3rem]">
+        <div className="text-[#fff] flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Thunder />
             <p>6500/6500</p>
